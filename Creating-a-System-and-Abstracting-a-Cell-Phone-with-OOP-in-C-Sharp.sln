@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp", "Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.csproj", "{DB916E4F-F760-4FDE-9BEE-B62D139AD323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB916E4F-F760-4FDE-9BEE-B62D139AD323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB916E4F-F760-4FDE-9BEE-B62D139AD323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB916E4F-F760-4FDE-9BEE-B62D139AD323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB916E4F-F760-4FDE-9BEE-B62D139AD323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A505E9E8-862D-41A6-9794-B03F107E3FFC}
+	EndGlobalSection
+EndGlobal
