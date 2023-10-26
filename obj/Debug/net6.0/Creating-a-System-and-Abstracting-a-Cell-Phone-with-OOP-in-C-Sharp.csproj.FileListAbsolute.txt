@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\bin\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.exe
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\bin\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.deps.json
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\bin\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.runtimeconfig.json
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\bin\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.dll
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\bin\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.pdb
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.AssemblyInfo.cs
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.dll
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\refint\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.dll
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.pdb
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.genruntimeconfig.cache
+C:\Users\danie\Documents\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp\obj\Debug\net6.0\ref\Creating-a-System-and-Abstracting-a-Cell-Phone-with-OOP-in-C-Sharp.dll
